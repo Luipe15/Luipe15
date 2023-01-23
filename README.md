@@ -4,8 +4,7 @@
 
 
 <h2 align="left">
-  <img width="45" alt="about" src="https://cdn-icons-png.flaticon.com/512/924/924915.png"> Luís Felipe P.S.A Silva
-  <img  style="float:right" alingn="center" src="https://komarev.com/ghpvc/?username=Luipe15&color=green" alt="Profile Views" /> 
+  <img width="45" alt="about" src="https://cdn-icons-png.flaticon.com/512/924/924915.png"> Luís Felipe P.S.A Silva 
 </h2> 
 
 
@@ -52,7 +51,7 @@ writer.writerow(self)
 <a href="https://github.com/Luipe15">
   <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luipe15&layout=compact&langs_count=16&theme=synthwave"/>
 </a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luipe15&" alt="luipe15" theme=synthwave /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luipe15&theme=dark" alt="luipe15" /></p>
 
 
 
