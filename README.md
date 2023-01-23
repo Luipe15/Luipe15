@@ -52,6 +52,7 @@ writer.writerow(self)
 <a href="https://github.com/Luipe15">
   <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luipe15&layout=compact&langs_count=16&theme=synthwave"/>
 </a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luipe15&" alt="luipe15" theme=synthwave /></p>
 
 
 
