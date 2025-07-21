@@ -1,18 +1,21 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4500&pause=100&color=F7873A&center=true&vCenter=true&width=440&lines=Hello+There+%F0%9F%91%8B!;Welcome+to+my+GitHub!">
-</h1>
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luipe15)
-
-<h2 align="left">
+<h1 align="left">
   <img width="45" alt="about" src="https://cdn-icons-png.flaticon.com/512/924/924915.png"> Luís Felipe P.S.A Silva 
-</h2> 
+</h1>
 
 I'm a Full Stack Developer with solid experience in building and contributing to large-scale projects. Currently, I work as a developer at Ikhon.
 
 I'm passionate about continuously learning and growing in the tech field I love.
 
 For me, creating and coding software is like magic — and I love making that magic happen!
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luipe15)
+<a href="mailto:luipe99@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/luipe15/" target="_blank" rel="noopener noreferrer">
+  <img alt="Instagram" src="https://img.shields.io/badge/gabssanto-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+
 ---
 
 ## 💻 Technologies & Tools
