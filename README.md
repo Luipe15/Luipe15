@@ -13,19 +13,6 @@ I'm passionate about continuously learning and growing in the tech field I love.
 
 For me, creating and coding software is like magic — and I love making that magic happen!
 
-```python
-import csv 
-dev = ['name', 'working_area', 'skills', 'contact']
-self = ['Luís Felipe Pinheiro', ['Developer'],
-       ['JS', 'TS', 'NodeJS', 'React', 'ReactNative'],
-        'luipe99@gmail.com']
-with open('luis.csv', 'w', encoding='UTF8') as f:
-    writer = csv.writer(f)
-writer.writerow(dev)
-writer.writerow(self)
-```
-
-
 ## 💻 Technologies & Tools
 
 My main tools include:
@@ -44,8 +31,6 @@ My main tools include:
 
 ---
 
-
-
 <a href="https://github.com/Luipe15">
  <img  src="https://github-readme-stats.vercel.app/api?username=Luipe15&show_icons=true&theme=synthwave&line_height=20" alt="**SEU NOME** github stats"/>
 </a>
@@ -54,18 +39,14 @@ My main tools include:
 </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luipe15&theme=dark" alt="luipe15" /></p>
 
-
-
 <br>
 <h2 align="left">Midias and Contact📱 </h2>
 <br>
 
 <div>
 <img align="right" width="150" src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e471cob4suakrgc7r9z5hfcod343mlnq8t1p585s2gp&rid=giphy.gif&ct=g" />
-
   
 </div>
-
 
 ![Snake animation](https://github.com/Luipe15/Luipe15/blob/output/github-contribution-grid-snake.svg)
 
