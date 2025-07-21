@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4500&pause=100&color=F7873A&center=true&vCenter=true&width=440&lines=Hello+There+%F0%9F%91%8B!;Welcome+to+my+GitHub!">
 </h1>
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luipe15)
 
 <h2 align="left">
@@ -12,6 +13,7 @@ I'm a Full Stack Developer with solid experience in building and contributing to
 I'm passionate about continuously learning and growing in the tech field I love.
 
 For me, creating and coding software is like magic — and I love making that magic happen!
+---
 
 ## 💻 Technologies & Tools
 
