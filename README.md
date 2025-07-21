@@ -13,7 +13,7 @@ For me, creating and coding software is like magic — and I love making that ma
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/luipe15/" target="_blank" rel="noopener noreferrer">
-  <img alt="Instagram" src="https://img.shields.io/badge/gabssanto-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <img alt="Instagram" src="https://img.shields.io/badge/luipe15-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
 ---
